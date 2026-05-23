@@ -1,0 +1,2 @@
+# IAE
+Generative AI excercises
